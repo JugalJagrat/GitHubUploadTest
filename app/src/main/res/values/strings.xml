@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHubUploadTest</string>
+    <string name="entertext">Enter name</string>
+    <string name="getvalue">Get Value</string>
+</resources>
